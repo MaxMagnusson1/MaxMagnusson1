@@ -1,29 +1,31 @@
-👋 Hej välkommen till min GitHub!
 
-🌐 Web Development
+## 👋 Hej välkommen till min GitHub!
 
-JavaScript ⚡
+### 🌐 **Språk**
 
-Vue.js 🖥️
+- JavaScript ⚡
 
-Node.js 🌿
+- HTML & CSS 🎨
 
-HTML & CSS 🎨
+- PHP 🐘
 
-PHP 🐘
+- WordPress 🌍
 
-WordPress 🌍
+- C# 💻
 
-Flutter📱
+### 📫**Ramverk** 
 
-C# 💻
+- Vue.js 🖥️
 
-🎨 Design & Creativity
+- Node.js 🌿
 
-Adobe Photoshop 🖼️
 
-Adobe Illustrator 🎨
+### 🎨 **Design & Creativity**
 
-Adobe Premiere Pro 🎥
+- Adobe Photoshop 🖼️
 
-Adobe XD 🖌️
+- Adobe Illustrator 🎨
+
+- Adobe Premiere Pro 🎥
+
+- Adobe XD 🖌️
