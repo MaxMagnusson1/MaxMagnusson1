@@ -1,26 +1,22 @@
-👋 Hi there! Welcome to my GitHub Profile
-
-🚀 Languages & Technologies
+👋 Hej välkommen till min GitHub!
 
 🌐 Web Development
 
-JavaScript
+JavaScript ⚡
 
-Vue.js
+Vue.js 🖥️
 
-Node.js
+Node.js 🌿
 
-HTML & CSS
+HTML & CSS 🎨
 
-PHP
+PHP 🐘
 
-WordPress
+WordPress 🌍
 
-📱 Mobile Development
+Flutter📱
 
-Flutter
-
-C# (for cross-platform applications)
+C# 💻
 
 🎨 Design & Creativity
 
