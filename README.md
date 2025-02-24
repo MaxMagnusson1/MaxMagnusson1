@@ -1,12 +1,12 @@
 # MaxMagnusson
 
-ss
-s
-s
-s
-s
-ss
-ss
-s
-s
-s
+⭐Fullstack devloper 
+
+📌 JavaScript 
+📌 PHP
+📌 Node.js
+📌 Wordpress 
+📌 Flutter 
+📌 C#
+📌 HTML
+📌 CSS
