@@ -13,6 +13,8 @@
 
 - C# 💻
 
+- Flutter🎨
+
 ### 📫**Ramverk** 
 
 - Vue.js 🖥️
